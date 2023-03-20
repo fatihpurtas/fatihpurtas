@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋! I'm Fatih.<br> I do research and produce projects in the field of Cyber Security.<br> I will share these projects I have stored from time to time.</h2>
+###
+
+<img align="center" height="300" src="https://i.imgflip.com/711ynb.jpg"  />
 
 ###
 
@@ -7,9 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihpurtas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/711ynb.jpg"  />
 
 ###
 
