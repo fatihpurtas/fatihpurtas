@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.imgflip.com/4oc53n.jpg"  />
+  <img height="300" src="https://i.imgflip.com/4oc53n.jpg"  />
 </div>
 
 ###
