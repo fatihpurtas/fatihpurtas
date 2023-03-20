@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="https://64.media.tumblr.com/a3572e5023605f19085461b7d7846c6d/tumblr_n2pmq8yjwz1r38f9do1_500.gifv"  />
+  <img height="270" src="https://i.imgflip.com/4oc53n.jpg"  />
 </div>
 
 ###
