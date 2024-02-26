@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Fatih.<br> I do research and produce projects in the field of Cyber Security.<br> The projects I typically share here are programs I've coded to simplify my daily life. After all, I'm an engineer :D<br> I will share these projects I have stored from time to time.</h2>
+<h2 align="center">Hi 👋! I'm Fatih.<br> I do research and produce projects in the field of Cyber Security.<br><br> The projects I typically share here are programs I've coded to simplify my daily life. After all, I'm an engineer :D<br><br> I will share these projects I have stored from time to time.</h2>
 
 
 ###
